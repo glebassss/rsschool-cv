@@ -25,7 +25,7 @@ The main goal for 2024 is to become a Full-stack Developer, join an IT company, 
 
 ## Python code example: "Display as many Fibonacci sequence elements as specified by the user."
  ```
-        num=int(input('Введите желаемое колличество элементов ряда Фибоначчи '))
+        num=int(input('Enter the desired number of Fibonacci sequence elements: '))
         fibn2=1
         fibn1=1
         for i in range(0, num-1):
@@ -39,7 +39,7 @@ The main goal for 2024 is to become a Full-stack Developer, join an IT company, 
 
   * IT OVERONE Python Backend Developer Course (October 2022 - October 2023)
    ![certificate](https://media.licdn.com/dms/image/D4D22AQEGPw3FaUZqiA/feedshare-shrink_1280/0/1698997318690?e=1702512000&v=beta&t=V_UOGphkkZqNbC2yd8ts_pGkT1jb2m8s--rMhySQZ-I)
-
+  * IT OVERONE English Learning( not completed yet )   
   * RS-School JavaScript Frontend Developer Course (Started in November 2023, not completed yet)
 
 ## Languages:
